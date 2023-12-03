@@ -1,0 +1,6 @@
+﻿  PR-09.3.cpp
+C:\Данило\Алгоритмізація\TEMS-(6-14)\PR-09.3\PR-09.3.cpp(41,6): warning C4101: 'found': unreferenced local variable
+C:\Данило\Алгоритмізація\TEMS-(6-14)\PR-09.3\PR-09.3.cpp(38,6): warning C4101: 'iposada': unreferenced local variable
+C:\Данило\Алгоритмізація\TEMS-(6-14)\PR-09.3\PR-09.3.cpp(39,8): warning C4101: 'nomer': unreferenced local variable
+C:\Данило\Алгоритмізація\TEMS-(6-14)\PR-09.3\PR-09.3.cpp(37,9): warning C4101: 'proc': unreferenced local variable
+  PR-09.3.vcxproj -> C:\Данило\Алгоритмізація\TEMS-(6-14)\PR-09.3\Debug\PR-09.3.exe
